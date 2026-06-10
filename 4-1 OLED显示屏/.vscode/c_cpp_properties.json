@@ -3,13 +3,15 @@
         {
             "name": "Target 1",
             "includePath": [
-                "f:\\desk\\STM32_Project\\4-1 OLED显示屏\\Start",
-                "f:\\desk\\STM32_Project\\4-1 OLED显示屏\\Library",
-                "f:\\desk\\STM32_Project\\4-1 OLED显示屏\\User",
-                "f:\\desk\\STM32_Project\\4-1 OLED显示屏\\System",
-                "f:\\desk\\STM32_Project\\4-1 OLED显示屏\\Hardware",
-                "E:\\Keil5_32\\ARM\\ARMCC\\include",
-                "E:\\Keil5_32\\ARM\\ARMCC\\include\\rw"
+                "${workspaceFolder}/Start",
+                "${workspaceFolder}/Library",
+                "${workspaceFolder}/User",
+                "${workspaceFolder}/System",
+                "${workspaceFolder}/Hardware",
+                "E:/Keil5_32/ARM/ARMCC/include",
+                "E:/Keil5_32/ARM/ARMCC/include/rw",
+                "E:/Keil5_32/ARM/PACK/Keil/STM32F1xx_DFP/2.2.0/Device/Include",
+                "E:/Keil5_32/ARM/CMSIS/Include"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",
